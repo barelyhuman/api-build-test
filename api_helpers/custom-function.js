@@ -1,0 +1,1 @@
+module.exports = (msg)=>{return `hello ${String(msg)}`}
